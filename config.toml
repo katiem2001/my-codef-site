@@ -1,5 +1,5 @@
 title = "The Midlands Society"
-baseURL = "https://60e57a3836b60b000818d5da--wizardly-torvalds-0a15bc.netlify.app/"
+baseURL = "https://wizardly-torvalds-0a15bc.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
