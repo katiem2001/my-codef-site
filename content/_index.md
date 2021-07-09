@@ -6,3 +6,24 @@ tags: []
 featured_image: "/images/Brum.jpg"
 description: ""
 --- 
+
+<div class="fl w-third pa2"> 
+
+[about](/about)
+![Brum](/images/Brum.jpg)
+
+</div>
+
+<div class="fl w-third pa2">
+
+[events](/events)
+![Brum](/images/Brum.jpg)  
+
+</div>
+
+<div class="fl w-third pa2">
+
+[meet the committee]()
+![Brum](/images/Brum.jpg)
+
+</div>	
